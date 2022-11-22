@@ -1,0 +1,11 @@
+/jquery
+*.html
+*.zip
+*.js
+element-list
+*.css
+*.swp
+gerenciador-de-cursos/.idea/
+gerenciador-de-cursos/gerenciador-de-cursos.iml
+gerenciador-de-cursos/out/
+
